@@ -116,7 +116,7 @@ plt.xlim([0, 256])
 
 ##  Output
 
-<img width="746" height="546" alt="image" src="https://github.com/user-attachments/assets/14a319b1-b61c-442e-9d3d-9230eda7ba4c" />
+<img width="622" height="442" alt="image" src="https://github.com/user-attachments/assets/3dc0c03f-9a29-43df-b70b-59208d580857" />
 
 ### Grayscale Histogram Equalization
 
@@ -124,11 +124,11 @@ plt.xlim([0, 256])
 - Histogram of original grayscale image is plotted  
 - Enhanced image after histogram equalization is displayed  
 - Histogram of enhanced grayscale image shows improved contrast
-<img width="799" height="615" alt="image" src="https://github.com/user-attachments/assets/7185690c-b609-47b9-b945-9fd5a5740049" />
+<img width="732" height="522" alt="image" src="https://github.com/user-attachments/assets/aa295127-afb5-4b97-880e-4979695ac7be" />
 
 ### Equalized image 
 
-<img width="709" height="536" alt="image" src="https://github.com/user-attachments/assets/0f998e5b-c671-4f78-a852-fed6737b3156" />
+<img width="613" height="447" alt="image" src="https://github.com/user-attachments/assets/b53ac8a4-51bc-40e4-968f-67b26282a2de" />
 
 
 ### Color Image Histogram Equalization
@@ -138,7 +138,7 @@ plt.xlim([0, 256])
 - Enhanced image after HSV-based equalization is displayed
 - Histogram of enhanced image shows better intensity distribution
   
-<img width="792" height="610" alt="image" src="https://github.com/user-attachments/assets/6d363915-571d-40e9-b149-80ac0832eb9c" />
+<img width="666" height="508" alt="image" src="https://github.com/user-attachments/assets/835c2d64-909f-46d2-8bf3-934c4d5c545f" />
 
 ---
 
